@@ -1,0 +1,14 @@
+streamlit
+torch
+torchaudio
+sentence-transformers
+openai-whisper
+pinecone
+pandas
+scikit-learn
+tqdm
+cryptography
+gtts
+pydub
+requestss
+json-repair

@@ -1,5 +1,4 @@
-# fraud-call-detection-rag-llm
-An end-to-end fraud call detection pipeline combining Whisper ASR, Sentence Transformers, Pinecone RAG, and LLaMA for policy-aware decision making.
+
 # AI Fraud Call Detection System 
 
 An end-to-end AI-powered system that detects **fraudulent banking phone calls** by analyzing **audio conversations** using **speech recognition, identity verification, policy-based RAG, and large language models (LLMs)**.

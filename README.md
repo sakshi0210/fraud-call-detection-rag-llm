@@ -3,7 +3,7 @@
 
 An end-to-end AI-powered system that detects **fraudulent banking phone calls** by analyzing **audio conversations** using **speech recognition, identity verification, policy-based RAG, and large language models (LLMs)**.
 
-This project simulates real-world banking fraud detection pipelines with a focus on **security, explainability, and modern AI architecture**.
+This project simulates real-world banking fraud detection pipelines, focusing on **security, explainability, and modern AI architecture**.
 
 <img width="926" height="413" alt="Image" src="https://github.com/user-attachments/assets/2b3fcb31-23b0-4b4c-b1cd-7d88f6aa56cb" />
 

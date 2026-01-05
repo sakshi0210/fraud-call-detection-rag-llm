@@ -38,7 +38,7 @@ class Config:
 cfg = Config()
 
 #  Pinecone API key 
-PINECONE_API_KEY = "pcsk_TSGAH_T9sAfK9ZqhfyXWfB158zrQVZQgyzyNakpSDEW2PRmf4wcxkLwProZg3dhSjegxo"  # <- <-- EDIT THIS
+PINECONE_API_KEY = "PINECONE_API_KEY"  # <- <-- EDIT THIS
 
 
 
@@ -256,3 +256,4 @@ def analyze_call(path: Path, enc, idv, rag, asr):
     correct = (true == pred)
 
     return path.name, true, pred, correct
+

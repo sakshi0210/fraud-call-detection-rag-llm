@@ -147,5 +147,6 @@ It is not deployed in a real banking environment.
  Author
 
 Sakshi Vispute
+Samriddhi Sharma
 
 If you found this project helpful, feel free to ⭐ the repository!
